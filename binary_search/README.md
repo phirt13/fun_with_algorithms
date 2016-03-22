@@ -26,6 +26,6 @@ When these criteria are determined I also consider what steps must be take to cr
 * While *min* is less than or equal to *max* keep guessing.  If this is not true then the number does not exist.
 * If the guess is too low then *min* should be one larger than the guess.
 * If the guess is too high then *max* should be one larger than the guess.
-* The guess is the **index** of the number in the array not the number!
+* The guess is the **index** of the number in the array not the number the index represents!
 
 I wrote two solutions using two approaches at the while(true) logic.
